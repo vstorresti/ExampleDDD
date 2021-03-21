@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using Application.DTOs;
 using Domain.Entities;
 
-namespace Infrastructure.CrossCutting.Interfaces
+namespace Application.Interfaces.Mapper
 {
     public interface IMapperCliente
     {
