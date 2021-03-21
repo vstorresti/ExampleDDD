@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Application.DTOs;
 using Domain.Entities;
-using Infrastructure.CrossCutting.Interfaces;
+using Application.Interfaces.Mapper;
 
 namespace Application.Mappers
 {

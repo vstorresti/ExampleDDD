@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using Application.DTOs;
 using Application.Interfaces;
 using Domain.Core.Interfaces.Services;
-using Infrastructure.CrossCutting.Interfaces;
+using Application.Interfaces.Mapper;
 
 namespace Application
 
